@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "98351524166",
+    "firebase_url": "https://chataway-7f1ff.firebaseio.com",
+    "project_id": "chataway-7f1ff",
+    "storage_bucket": "chataway-7f1ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98351524166:android:87431377f66a70ea",
+        "android_client_info": {
+          "package_name": "com.example.divyaank.chataway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98351524166-nfqaiu4miu94s0p3bq47cs0e62a2022d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.divyaank.chataway",
+            "certificate_hash": "e5624ed146f7fd5f6f1c2636608b042098311b85"
+          }
+        },
+        {
+          "client_id": "98351524166-g8s9hdjf88mdevrtqs92peh6n685v98u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeZ0H7feR7b3hkhd4X6V_rtNzCEMj1LHg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98351524166-g8s9hdjf88mdevrtqs92peh6n685v98u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
